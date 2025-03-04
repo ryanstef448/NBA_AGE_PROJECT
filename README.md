@@ -1,6 +1,6 @@
 # NBA_AGE_PROJECT
 This project will use a csv file of NBA player stats to show a distribution of player ages.
-# Extract and perform Exploratory Data Analysis on NBA Player data.  Perform univariate analysis of Player age distribution. 
+# Extract and perform Exploratory Data Analysis on NBA Player data.  
 ## Steps Followed in this project
 
 - Download CSV file of NBA player data from Kaggle.  
